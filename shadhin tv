@@ -1,0 +1,15 @@
+[
+  { "title": "Quick TV", "url": "http://172.100.100.100:8088/106/tracks-v1a1/mono.m3u8" },
+  { "title": "[SP] LIVE SPORTS", "url": "http://172.100.100.100:8088/101/video.m3u8" },
+  { "title": "[SP] T-SPORTS", "url": "http://172.100.100.100:8088/102/video.m3u8" },
+  { "title": "[SP] GTV", "url": "http://172.100.100.100:8088/106/video.m3u8" },
+  { "title": "[SP] STAR-SPORTS-1", "url": "http://172.100.100.100:8088/110/video.m3u8" },
+  { "title": "[SP] STAR-SPORTS-2", "url": "http://172.100.100.100:8088/115/video.m3u8" },
+  { "title": "[SP] STAR-SPORTS-3", "url": "http://10.30.30.30:8088/STAR-SPORTS.3/tracks-v1a1/mono.m3u8" },
+  { "title": "[SP] SONY-TEN-1", "url": "http://172.100.100.100:8088/119/video.m3u8" },
+  { "title": "[SP] SONY-TEN-2", "url": "http://172.100.100.100:8088/120/video.m3u8" },
+  { "title": "[SP] SONY-TEN-3", "url": "http://172.100.100.100:8088/121/video.m3u8" },
+  { "title": "[SP] SONY-TEN-4", "url": "http://10.30.30.30:8088/SONY-SPORTS.5HD/tracks-v1a1/mono.m3u8" },
+  { "title": "[SP] SPL-1", "url": "http://172.100.100.100:8088/123/video.m3u8" },
+  { "title": "[SP] SPL-2", "url": "http://172.100.100.100:8088/124/video.m3u8" },
+  { "title": "[SP] A SPORTS", "url": "http://172.
