@@ -1,0 +1,119 @@
+#EXTM3U 
+#EXTINF:-1 tvg-name="quick" tvg-id="1101" tvg-logo=" https://i.postimg.cc/nCDwFH8L/1280px-T-Sports-logo-svg.png",Quick TV
+http://172.100.100.100:8088/106/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name=" [SP] LIVE SPORTS " tvg-id="101", [SP] LIVE SPORTS
+http://172.100.100.100:8088/101/video.m3u8
+#EXTINF:-1 tvg-name=" [SP] T-SPORTS" tvg-id="102", [SP] T-SPORTS
+http://172.100.100.100:8088/102/video.m3u8
+#EXTINF:-1 tvg-name=" [SP] GTV" tvg-id="106", [SP] GTV
+http://172.100.100.100:8088/106/video.m3u8
+#EXTINF:-1 tvg-name=" [SP] STAR-SPORTS-1" tvg-id="110", [SP] STAR-SPORTS-1
+http://172.100.100.100:8088/110/video.m3u8
+#EXTINF:-1 tvg-name=" [SP] STAR-SPORTS-2" tvg-id="115", [SP] STAR-SPORTS-2
+http://172.100.100.100:8088/115/video.m3u8
+#EXTINF:-1 tvg-name=" [SP] STAR-SPORTS-3" tvg-id="115", [SP] STAR-SPORTS-3
+http://10.30.30.30:8088/STAR-SPORTS.3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name=" [SP] SONY-TEN-1" tvg-id="119", [SP] SONY-TEN-1
+http://172.100.100.100:8088/119/video.m3u8
+#EXTINF:-1 tvg-name=" [SP] SONY-TEN-2" tvg-id="120", [SP] SONY-TEN-2
+http://172.100.100.100:8088/120/video.m3u8
+#EXTINF:-1 tvg-name=" [SP] SONY-TEN-3" tvg-id="121", [SP] SONY-TEN-3
+http://172.100.100.100:8088/121/video.m3u8
+#EXTINF:-1 tvg-name=" [SP] SONY-TEN-3" tvg-id="121", [SP] SONY-TEN-4
+http://10.30.30.30:8088/SONY-SPORTS.5HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name=" [SP] SPL-1" tvg-id="123", [SP] SPL-1
+http://172.100.100.100:8088/123/video.m3u8
+#EXTINF:-1 tvg-name=" [SP] SPL-2" tvg-id="124", [SP] SPL-2
+http://172.100.100.100:8088/124/video.m3u8
+#EXTINF:-1 tvg-name=" [SP]  A SPORTS" tvg-id="127", [SP]  A SPORTS
+http://172.100.100.100:8088/127/video.m3u8
+#EXTINF:-1 tvg-name=" [SP]  PTV SPORTS" tvg-id="128", [SP]  PTV SPORTS
+http://172.100.100.100:8088/128/video.m3u8
+#EXTINF:-1 tvg-name=" [BD]  EKATOR-TV" tvg-id="201", [BD]  EKATOR-TV
+http://172.100.100.100:8088/201/video.m3u8
+#EXTINF:-1 tvg-name=" [BD]  ATN-BANGLA" tvg-id="202", [BD]  ATN-BANGLA
+http://172.100.100.100:8088/202/video.m3u8
+#EXTINF:-1 tvg-name=" [BD]  ATN-NEWS" tvg-id="203", [BD]  ATN-NEWS
+http://172.100.100.100:8088/203/video.m3u8
+#EXTINF:-1 tvg-name=" [BD]  DBC-NEWS" tvg-id="204", [BD]  DBC-NEWS
+http://172.100.100.100:8088/204/video.m3u8
+#EXTINF:-1 tvg-name=" [BD]  SOMY-NEWS" tvg-id="205", [BD]  SOMY-NEWS
+http://172.100.100.100:8088/205/video.m3u8
+#EXTINF:-1 tvg-name=" [BD]  independent TV" tvg-id="205", [BD]  independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-name=" [BD]  NEWS 24" tvg-id="205", [BD]  NEWS 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 tvg-name=" [BD] JAMUNA TV" tvg-id="205", [BD]  JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-name=" [BD] ALJARIRA" tvg-id="205", [BD]  ALJARIRA
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 tvg-name=" [BD]   MASRANGA-TV" tvg-id="206", [BD]   MASRANGA-TV
+http://172.100.100.100:8088/206/video.m3u8
+#EXTINF:-1 tvg-name=" [BD]  Sananda-TV" tvg-id="206", [BD]   Sananda-TV
+https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name=" [BD]  channel-i" tvg-id="207", [BD]  channel-i
+http://172.100.100.100:8088/207/video.m3u8
+#EXTINF:-1 tvg-name=" [BD]   JAMUNA-TV" tvg-id="209", [BD]   JAMUNA-TV
+http://172.100.100.100:8088/209/video.m3u8
+#EXTINF:-1 tvg-name=" [BD]   DEEPTO TV" tvg-id="209", [BD]   DEEPTO TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 tvg-name=" [BD]   BANGLA VISOIN" tvg-id="209", [BD]   BANGLA VISOIN
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-name=" [BD]  NTV" tvg-id="209", [BD]  NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-name=" [BD]  CHANNEL 9" tvg-id="209", [BD]  CHANNEL 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+#EXTINF:-1 tvg-name=" [BD]  SRK TV" tvg-id="209", [BD]  SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name=" [BD] Sananda television" tvg-id="209", [BD]  Sananda television
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name=" [BD] Gseries Drama" tvg-id="209", [BD]  Gseries Drama
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name=" [BD]MOVIE BANGLA" tvg-id="209", [BD]  MOVIE BANGLA
+https://bestiptv.bestiptv-pro.workers.dev/?url=http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-name=" [INBD]  ZEE-BANGLA" tvg-id="301", [INBD]  ZEE-BANGLA
+http://172.100.100.100:8088/301/video.m3u8
+#EXTINF:-1 tvg-name=" [INBD]  STAR-JALSHA" tvg-id="302", [INBD]  STAR-JALSHA
+http://172.100.100.100:8088/302/video.m3u8
+#EXTINF:-1 tvg-name=" [INBD]  JALSHA-MOVIES" tvg-id="303", [INBD]  JALSHA-MOVIES
+http://172.100.100.100:8088/303/video.m3u8
+#EXTINF:-1 tvg-name=" [INBD]  COLORS-BANGLA" tvg-id="304", [INBD]  COLORS-BANGLA
+http://172.100.100.100:8088/304/video.m3u8
+#EXTINF:-1 tvg-name=" [INBD]  ZEE-BANGLA-CINEMA" tvg-id="305", [INBD]  ZEE-BANGLA-CINEMA
+http://172.100.100.100:8088/305/video.m3u8
+#EXTINF:-1 tvg-name=" [INBD]  SONY-ART" tvg-id="306", [INBD]  SONY-ART
+http://172.100.100.100:8088/306/video.m3u8
+#EXTINF:-1 tvg-name=" [IN]  STAR-PLUS" tvg-id="401", [IN]  STAR-PLUS
+http://172.100.100.100:8088/401/video.m3u8
+#EXTINF:-1 tvg-name=" [IN]  STAR-GOLD" tvg-id="402", [IN]  STAR-GOLD
+http://172.100.100.100:8088/402/video.m3u8
+#EXTINF:-1 tvg-name=" [IN]  SONY-ENT" tvg-id="403", [IN]  SONY-ENT
+http://172.100.100.100:8088/403/video.m3u8
+#EXTINF:-1 tvg-name=" [IN]  COLORS-HIN" tvg-id="405", [IN]  COLORS-HIN
+http://172.100.100.100:8088/405/video.m3u8
+#EXTINF:-1 tvg-name=" [IN]  ZEE-CINEMA" tvg-id="406", [IN]  ZEE-CINEMA
+http://172.100.100.100:8088/406/video.m3u8
+#EXTINF:-1 tvg-name=" [IN]  SONY-MAX" tvg-id="407", [IN]  SONY-MAX
+http://172.100.100.100:8088/407/video.m3u8
+#EXTINF:-1 tvg-name=" [EN]  STAR-MOVIE" tvg-id="501", [EN]  STAR-MOVIE
+http://172.100.100.100:8088/501/video.m3u8
+#EXTINF:-1 tvg-name=" [EN]  SONY-PIX" tvg-id="503", [EN]  SONY-PIX
+http://172.100.100.100:8088/503/video.m3u8
+#EXTINF:-1 tvg-name=" [DOC]  DISCOVERY" tvg-id="801", [DOC]  DISCOVERY
+http://172.100.100.100:8088/801/video.m3u8
+#EXTINF:-1 tvg-name=" [DOC]  NGO-GEROPHY" tvg-id="802", [DOC]  NGO-GEROPHY
+http://172.100.100.100:8088/802/video.m3u8
+#EXTINF:-1 tvg-name=" [MUSIC]  MASTI" tvg-id="703", [MUSIC]  MASTI
+http://172.100.100.100:8088/703/video.m3u8
+#EXTINF:-1 tvg-name=" [MUSIC]  SANGIT-BANGLA" tvg-id="704", [MUSIC]  SANGIT-BANGLA
+http://172.100.100.100:8088/704/video.m3u8
+#EXTINF:-1 tvg-name=" [MUSIC]  NICK" tvg-id="601", [MUSIC]  NICK
+http://172.100.100.100:8088/601/video.m3u8
+#EXTINF:-1 tvg-name=" [MUSIC]  DESNE-JUNIER" tvg-id="602", [MUSIC]  DESNE-JUNIER
+http://172.100.100.100:8088/602/video.m3u8
+#EXTINF:-1 tvg-name="quick" tvg-id="1101",quick
+http://172.100.100.100:8088/106/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="T-sports low" tvg-id="1101",T-sports low
+http://stream.moviemania.top/live/index.m3u8
+
+
