@@ -1,269 +1,151 @@
-h#EXTM3U x-tvg-url="https://www.iptv-org.github.io/epg/guides/us.xml"
 
-#EXTINF:-1 tvg-id="T-SPORTS.in" tvg-name="T-SPORTS" tvg-logo=" " group-title="Sports",T-SPORTS
+
+#EXTINF:-1 tvg-id="T-SPORTS.in" tvg-name="T-SPORTS" tvg-logo="http://172.100.100.100/assets/images/Tsports.png " group-title="Sports",T-SPORTS
 http://172.100.100.100:8088/2-102/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="T-SPORTS-BACKUP.in" tvg-name="T-SPORTS-BACKUP" tvg-logo="https://i.imgur.com/1Z9Z9Z1.png" group-title="Sports",T-SPORTS-BACKUP
+#EXTINF:-1 tvg-id="T-SPORTS-BACKUP.in" tvg-name="T-SPORTS-BACKUP" tvg-logo="https://ottking.top/app/uploads/tv_image/t-sports-hd.png" group-title="Sports",T-SPORTS-BACKUP
 http://103.102.27.173:84/tvfeed1002/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SonyTen1.in" tvg-name="Sony Ten 1" tvg-logo="https://i.imgur.com/3Z3Z3Z3.png" group-title="Sports",Sony Ten 1
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-name="Sony Ten 1" tvg-logo="http://172.100.100.100/assets/images/sonyten1.png" group-title="Sports",Sony Ten 1
+http://172.100.100.100:8088/119/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="WillowTV.us" tvg-name="Willow TV" tvg-logo="https://i.imgur.com/4W4W4W4.png" group-title="Sports",Willow TV
+#EXTINF:-1 tvg-id="Sony Ten 2.us" tvg-name="Sony Ten 2" tvg-logo="http://172.100.100.100/assets/images/sonyten2.png" group-title="Sports",Sony Ten 2
+http://172.100.100.100:8088/120/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sony Ten 3.us" tvg-name="Sony Ten 3" tvg-logo="http://172.100.100.100/assets/images/sonyten2.png" group-title="Sports",Sony Ten 3
+
+http://172.100.100.100:8088/121/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sony Ten 4.us" tvg-name="Sony Ten 4" tvg-logo="http://172.100.100.100/assets/images/sonyten2.png" group-title="Sports",Sony Ten 4
+http://103.102.27.173:84/SONY-SPORTS-TEN-4HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sony Ten 5.s" tvg-name="Sony Ten 4" tvg-logo="http://172.100.100.100/assets/images/sonyten5.png" group-title="Sports",Sony Ten 5
+http://172.100.100.100:8088/122/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-id="STAR SPORTS 1.s" tvg-name="STAR SPORTS 1" tvg-logo="http://172.100.100.100/assets/images/Star-sports1.png" group-title="Sports",STAR SPORTS 1
+http://172.100.100.100:8088/110/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="STAR SPORTS 2.in" tvg-name="STAR SPORTS 2" tvg-logo="http://172.100.100.100/assets/images/Star-Sports2.png " group-title="Sports",STAR SPORTS 2
+http://172.100.100.100:8088/115/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="STAR SPORTS 3in" tvg-name="STAR SPORTS 3 "tvg-logo"http://102.27.173/app/uploads/tv_image/sm/star-sports-3-hd.png " group-title="Sports",STAR SPORTS 3
+http://103.102.27.173:84/Star-Sports-3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="STAR SPORTS 3in" tvg-name="Unite8 sports 2"tvg-logo="tp://103.102.27.173/app/uploads/tv_image/sm/unite8-sports-2.png" group-title="Sports",Unite8 sports 2
+http://172.100.100.100:8088/101/tracks-v1a1/mono.m3u
+
+#EXTINF:-1 tvg-id="A SPORTS HD.in" tvg-name="A SPORTS HD" tvg-logo="http://172.100.100.100/assets/images/Asports.png" group-title="Sports",A SPORTS HD
+http://172.100.100.100:8088/127/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Euro Sports HD.in" tvg-name="Euro Sports HD" tvg-logo="http://172.100.100.100/assets/images/eurosports.png" group-title="Sports",Euro Sports HD
+http://172.100.100.100:8088/134/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Euro Sports HD.in" tvg-name="Euro Sports HD" tvg-logo="http://172.100.100.100/assets/images/eurosports.png" group-title="Sports",Euro Sports HD
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://i.imgur.com/5V5V5V5.png" group-title="Sports",Sports Extra
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Jamuna TV" tvg-logo="http://172.100.100.100/assets/images/Jamunatv.png" group-title="Bangla",Jamuna TV
+http://172.100.100.100:8088/209/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="StarAnanda.in" tvg-name="ABP Ananda" tvg-logo="https://i.imgur.com/6X6X6X6.png" group-title="India-Kolkata",ABP Ananda
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="SomoyTV" tvg-logo="http://172.100.100.100/assets/images/SomoyTV1689411430.png" group-title="Bangla",SomoyTV
+http://172.100.100.100:8088/205/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Zee24Ghanta.in" tvg-name="Zee 24 Ghanta" tvg-logo="https://i.imgur.com/7Y7Y7Y7.png" group-title="India-Kolkata",Zee 24 Ghanta
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Ekatoor TV" tvg-logo="http://172.100.100.100/assets/images/ektatur.png" group-title="Bangla",Ekatoor TV
+http://172.100.100.100:8088/201/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="DBC NEWS" tvg-logo="http://172.100.100.100/assets/images/Dbc.png" group-title="Bangla",DBC NEWS
+http://172.100.100.100:8088/204/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="ATN NEWS" tvg-logo="http://172.100.100.100/assets/images/atnnews.png" group-title="Bangla",ATN NEWS
+http://172.100.100.100:8088/203/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Maasranga TV" tvg-logo="https://ottking.top/app/uploads/tv_image/macranga-tv.png" group-title="Bangla",Maasranga TV
+http://103.102.27.173:84/Massranga-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Channel 1" tvg-logo="http://103.102.27.173/app/uploads/tv_image/sm/channel-1.png" group-title="Bangla",Channel 1
+http://103.102.27.173:84/Channel-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="My TV" tvg-logo="https://ottking.top/app/uploads/tv_image/my-tv.png" group-title="Bangla",My TV
+http://103.102.27.173:84/MY-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Mohona TV" tvg-logo="http://103.102.27.173/app/uploads/tv_image/sm/mohona-tv.png" group-title="Bangla",Mohona TV
+http://103.102.27.173:84/Mohona-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Channel i HD" tvg-logo="https://ottking.top/app/uploads/tv_image/channel-i.png" group-title="Bangla",Channel i HD
+http://172.100.100.100:8088/207/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids.us" tvg-name="NICK BANGLA" tvg-logo="http://172.100.100.100/assets/images/NICK.JPG.png" group-title="KIDS",NICK BANGLA
+http://103.102.27.173:84/NICK-BANGLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids.us" tvg-name="SONIC BANGLA" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/ffc94165e3ccffde2ade859502f5d995.png" group-title="KIDS",SONIC BANGLA
+http://103.102.27.173:84/SONIC-BANGLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids.us" tvg-name="Duronto TV" tvg-logo="https://ottking.top/app/uploads/tv_image/duranto-tv.png" group-title="KIDS",Duronto TV
+http://103.102.27.173:84/Duronto-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.us" tvg-name="Discovery Channel" tvg-logo="https://ottking.top/app/uploads/tv_image/discovery-bangla.png" group-title="Documentary",Discovery Channel
+http://103.102.27.173:84/DISCOVERY-BANGLA/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="https://ottking.top/app/uploads/tv_image/nat-geo-bangla.png" group-title="Documentary",National Geographic
+http://103.102.27.173:84/NATGEO-BANGLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="http://103.102.27.173/app/uploads/tv_image/sm/animal-planet-hd.png" group-title="Documentary",Animal Planet
+http://103.102.27.173:84/ANIMAL-PLANET-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" tvg-logo="http://103.102.27.173/app/uploads/tv_image/sm/history-tv-18-hd.png" group-title="Documentary",History TV18
+http://103.102.27.173:84/HISTORY-TV-18-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTV.sa" tvg-name="Peace TV Bangla-logo="https://i.imgur.com/1W1W1W1.png" group-title="Islamic",Peace TV BANGLA
+http://103.102.27.173:84/PEACE-TV-BANGLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTVBangla.sa" tvg-name="Peace TV Bangla" tvg-logo="https://ottking.top/cdn/image/Peace-TV.png" group-title="Islamic",Peace TV Bangla
 https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
 
-#EXTINF:-1 tvg-id="RepublicBangla.in" tvg-name="Republic Bangla" tvg-logo="https://i.imgur.com/8Z8Z8Z8.png" group-title="India-Kolkata",Republic Bangla
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="MakkahLive.sa" tvg-name="Makkah Live" tvg-logo="https://ottking.top/app/uploads/tv_image/makkah-tv.png" group-title="Islamic",Makkah Live
+http://103.102.27.173:84/Makkah-Live/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="KolkataTV.in" tvg-name="Kolkata TV" tvg-logo="https://i.imgur.com/9A9A9A9.png" group-title="India-Kolkata",Kolkata TV
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="ETVBangla.in" tvg-name="ETV News Bangla" tvg-logo="https://i.imgur.com/0B0B0B0.png" group-title="India-Kolkata",ETV News Bangla
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
 
-#EXTINF:-1 tvg-id="ChannelI.bd" tvg-name="Channel i" tvg-logo="https://i.imgur.com/1C1C1C1.png" group-title="Bangla",Channel i
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
 
-#EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV Bangladesh" tvg-logo="https://i.imgur.com/2D2D2D2.png" group-title="Bangla",NTV Bangladesh
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="STAR MOVIES HD" tvg-logo="http://172.100.100.100/assets/images/Star-Movie.png",STAR MOVIES HD
+http://172.100.100.100:8088/501/tracks-v1a1/mono.m3u8?
 
-#EXTINF:-1 tvg-id="SomoyTV.bd" tvg-name="Somoy TV" tvg-logo="https://i.imgur.com/3E3E3E3.png" group-title="Bangla",Somoy TV
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SonyPix HD" tvg-logo="http://172.100.100.100/assets/images/sony-Pix.png" group-title="English",SonyPix HD
+http://172.100.100.100:8088/503/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="IndependentTV.bd" tvg-name="Independent TV" tvg-logo="https://i.imgur.com/4F4F4F4.png" group-title="Bangla",Independent TV
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Jamuna TV" tvg-logo="https://i.imgur.com/5G5G5G5.png" group-title="Bangla",Jamuna TV
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
+#EXTINF:-1 tvg-id="Kol6.in" tvg-name="Star Jalsha HD" tvg-logo="http://172.100.100.100/assets/images/Star-Jalsha.png" group-title="India-Kolkata",Star Jalsha HD
+http://172.100.100.100:8088/302/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Kol7.in" tvg-name="ZEE BANGLA HD" tvg-logo="http://172.100.100.100/assets/images/Zee-Bangla.png" group-title="India-Kolkata",ZEE BANGLA HD
+http://172.100.100.100:8088/301/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Kol8.in" tvg-name="Colors Bangla HD" tvg-logo="http://172.100.100.100/assets/images/Colors-Bangla.png" group-title="India-Kolkata",Colors Bangla HD
+http://172.100.100.100:8088/304/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 tvg-id="Kol9.in" tvg-name="SONY AATH" tvg-logo="http://172.100.100.100/assets/images/Sony-Aath.png" group-title="India-Kolkata",SONY AATH
+#EXTINF:-1 tvg-id="Kol11.in" tvg-name="Sangeet Bangla" tvg-logo="http://ottking.top/cdn/image/Sangeet-Bangla.png" group-title="India-Kolkata",Sangeet Bangla
+http://103.102.27.173:84/Sangeet-Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Kol12.in" tvg-name="JALSHA MOVIES HD" tvg-logo="http://172.100.100.100/assets/images/Jalsha-Movies.png" group-title="India-Kolkata",JALSHA MOVIES HD
+http://172.100.100.100:8088/303/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" tvg-logo="https://i.imgur.com/6H6H6H6.png" group-title="Hindi",Aaj Tak
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
+#EXTINF:-1 tvg-id="Hin6.in" tvg-name="Colors TV" tvg-logo="http://172.100.100.100/assets/images/Colors-Hindi.png",Colors TV
+http://172.100.100.100:8088/405/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name="NDTV India" tvg-logo="https://i.imgur.com/7I7I7I7.png" group-title="Hindi",NDTV India
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
+#EXTINF:-1 tvg-id="Hin10.in" tvg-name="Sony Entertainmnt HD" tvg-logo="http://172.100.100.100/assets/images/Sony%20Entertainment.png" group-title="Hindi",Sony Entertainmnt HD
 
-#EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="Zee News" tvg-logo="https://i.imgur.com/8J8J8J8.png" group-title="Hindi",Zee News
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+http://172.100.100.100:8088/403/tracks-v1a1/mono.m3u8?
 
-#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="Star Plus" tvg-logo="https://i.imgur.com/9K9K9K9.png" group-title="Hindi",Star Plus
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="Hin10.in" tvg-name="Sony Max" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-max-hd.png" group-title="Hindi",Sony Max
+http://103.102.27.173:84/SONY-MAX-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Hin11.in" tvg-name="Zee Cinema" tvg-logo="http://172.100.100.100/assets/images/Zee-Cinema.png" group-title="Hindi",Zee Cinema
 
-#EXTINF:-1 tvg-id="SonyTV.in" tvg-name="Sony Entertainment" tvg-logo="https://i.imgur.com/0L0L0L0.png" group-title="Hindi",Sony Entertainment
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/1M1M1M1.png" group-title="KIDS",Cartoon Network
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo TV" tvg-logo="https://i.imgur.com/2N2N2N2.png" group-title="KIDS",Pogo TV
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-
-#EXTINF:-1 tvg-id="NickIndia.in" tvg-name="Nick India" tvg-logo="https://i.imgur.com/3O3O3O3.png" group-title="KIDS",Nick India
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/4P4P4P4.png" group-title="KIDS",Disney Channel
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryKids.us" tvg-name="Discovery Kids" tvg-logo="https://i.imgur.com/5Q5Q5Q5.png" group-title="KIDS",Discovery Kids
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-
-#EXTINF:-1 tvg-id="Discovery.us" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/6R6R6R6.png" group-title="Documentary",Discovery Channel
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/7S7S7S7.png" group-title="Documentary",National Geographic
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/8T8T8T8.png" group-title="Documentary",Animal Planet
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-
-#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" tvg-logo="https://i.imgur.com/9U9U9U9.png" group-title="Documentary",History TV18
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-
-#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/0V0V0V0.png" group-title="Documentary",BBC Earth
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-
-#EXTINF:-1 tvg-id="PeaceTV.sa" tvg-name="Peace TV English" tvg-logo="https://i.imgur.com/1W1W1W1.png" group-title="Islamic",Peace TV English
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-
-#EXTINF:-1 tvg-id="PeaceTVBangla.sa" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/2X2X2X2.png" group-title="Islamic",Peace TV Bangla
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-
-#EXTINF:-1 tvg-id="MakkahLive.sa" tvg-name="Makkah Live" tvg-logo="https://i.imgur.com/3Y3Y3Y3.png" group-title="Islamic",Makkah Live
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-
-#EXTINF:-1 tvg-id="MadinahLive.sa" tvg-name="Madinah Live" tvg-logo="https://i.imgur.com/4Z4Z4Z4.png" group-title="Islamic",Madinah Live
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-
-#EXTINF:-1 tvg-id="HudaTV.eg" tvg-name="Huda TV" tvg-logo="https://i.imgur.com/5A5A5A5.png" group-title="Islamic",Huda TV
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-
-#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" tvg-logo="https://i.imgur.com/6B6B6B6.png" group-title="English",BBC One
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://i.imgur.com/7C7C7C7.png" group-title="English",Sky News
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN International" tvg-logo="https://i.imgur.com/8D8D8D8.png" group-title="English",CNN International
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-
-#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="Fox News" tvg-logo="https://i.imgur.com/9E9E9E9.png" group-title="English",Fox News
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/0F0F0F0.png" group-title="English",Al Jazeera English
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-
-#EXTINF:-1 tvg-id="Sports6.in" tvg-name="Star Sports 2" tvg-logo="https://i.imgur.com/1Z1Z1Z1.png" group-title="Sports",Star Sports 2
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Sports7.in" tvg-name="Sony Ten 2" tvg-logo="https://i.imgur.com/2Z2Z2Z2.png" group-title="Sports",Sony Ten 2
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Sports8.in" tvg-name="Sony Ten 3" tvg-logo="https://i.imgur.com/3Z3Z3Z3.png" group-title="Sports",Sony Ten 3
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-#EXTINF:-1 tvg-id="Sports9.in" tvg-name="EuroSport India" tvg-logo="https://i.imgur.com/4Z4Z4Z4.png" group-title="Sports",EuroSport India
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="Sports10.in" tvg-name="DD Sports" tvg-logo="https://i.imgur.com/5Z5Z5Z5.png" group-title="Sports",DD Sports
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-#EXTINF:-1 tvg-id="Sports11.in" tvg-name="Sports18 1" tvg-logo="https://i.imgur.com/6Z6Z6Z6.png" group-title="Sports",Sports18 1
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Sports12.in" tvg-name="Sports18 2" tvg-logo="https://i.imgur.com/7Z7Z7Z7.png" group-title="Sports",Sports18 2
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Sports13.in" tvg-name="Star Sports Select 1" tvg-logo="https://i.imgur.com/8Z8Z8Z8.png" group-title="Sports",Star Sports Select 1
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-#EXTINF:-1 tvg-id="Sports14.in" tvg-name="Star Sports Select 2" tvg-logo="https://i.imgur.com/9Z9Z9Z9.png" group-title="Sports",Star Sports Select 2
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="Sports15.in" tvg-name="Neo Sports" tvg-logo="https://i.imgur.com/0Z0Z0Z0.png" group-title="Sports",Neo Sports
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-
-#EXTINF:-1 tvg-id="Kol6.in" tvg-name="Calcutta News" tvg-logo="https://i.imgur.com/1A1A1A1.png" group-title="India-Kolkata",Calcutta News
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Kol7.in" tvg-name="R Plus News" tvg-logo="https://i.imgur.com/2A2A2A2.png" group-title="India-Kolkata",R Plus News
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Kol8.in" tvg-name="News Time Bangla" tvg-logo="https://i.imgur.com/3A3A3A3.png" group-title="India-Kolkata",News Time Bangla
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-#EXTINF:-1 tvg-id="Kol9.in" tvg-name="Channel 10" tvg-logo="https://i.imgur.com/4A4A4A4.png" group-title="India-Kolkata",Channel 10
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="Kol10.in" tvg-name="Akash Bangla" tvg-logo="https://i.imgur.com/5A5A5A5.png" group-title="India-Kolkata",Akash Bangla
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-#EXTINF:-1 tvg-id="Kol11.in" tvg-name="Sangeet Bangla" tvg-logo="https://i.imgur.com/6A6A6A6.png" group-title="India-Kolkata",Sangeet Bangla
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Kol12.in" tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/7A7A7A7.png" group-title="India-Kolkata",Zee Bangla
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Kol13.in" tvg-name="Star Jalsha" tvg-logo="https://i.imgur.com/8A8A8A8.png" group-title="India-Kolkata",Star Jalsha
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-#EXTINF:-1 tvg-id="Kol14.in" tvg-name="Colors Bangla" tvg-logo="https://i.imgur.com/9A9A9A9.png" group-title="India-Kolkata",Colors Bangla
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="Kol15.in" tvg-name="Sony Aath" tvg-logo="https://i.imgur.com/0A0A0A0.png" group-title="India-Kolkata",Sony Aath
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-
-#EXTINF:-1 tvg-id="Bd6.bd" tvg-name="ATN Bangla" tvg-logo="https://i.imgur.com/1B1B1B1.png" group-title="Bangla",ATN Bangla
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Bd7.bd" tvg-name="Channel 9" tvg-logo="https://i.imgur.com/2B2B2B2.png" group-title="Bangla",Channel 9
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Bd8.bd" tvg-name="RTV" tvg-logo="https://i.imgur.com/3B3B3B3.png" group-title="Bangla",RTV
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-#EXTINF:-1 tvg-id="Bd9.bd" tvg-name="Boishakhi TV" tvg-logo="https://i.imgur.com/4B4B4B4.png" group-title="Bangla",Boishakhi TV
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="Bd10.bd" tvg-name="Desh TV" tvg-logo="https://i.imgur.com/5B5B5B5.png" group-title="Bangla",Desh TV
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-#EXTINF:-1 tvg-id="Bd11.bd" tvg-name="Ekushey TV" tvg-logo="https://i.imgur.com/6B6B6B6.png" group-title="Bangla",Ekushey TV
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Bd12.bd" tvg-name="Maasranga TV" tvg-logo="https://i.imgur.com/7B7B7B7.png" group-title="Bangla",Maasranga TV
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Bd13.bd" tvg-name="GTV Bangladesh" tvg-logo="https://i.imgur.com/8B8B8B8.png" group-title="Bangla",GTV Bangladesh
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-#EXTINF:-1 tvg-id="Bd14.bd" tvg-name="Nagorik TV" tvg-logo="https://i.imgur.com/9B9B9B9.png" group-title="Bangla",Nagorik TV
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="Bd15.bd" tvg-name="Banglavision" tvg-logo="https://i.imgur.com/0B0B0B0.png" group-title="Bangla",Banglavision
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-
-#EXTINF:-1 tvg-id="Hin6.in" tvg-name="Colors TV" tvg-logo="https://i.imgur.com/1C1C1C1.png" group-title="Hindi",Colors TV
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Hin7.in" tvg-name="Zee TV" tvg-logo="https://i.imgur.com/2C2C2C2.png" group-title="Hindi",Zee TV
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Hin8.in" tvg-name="Sab TV" tvg-logo="https://i.imgur.com/3C3C3C3.png" group-title="Hindi",Sab TV
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-#EXTINF:-1 tvg-id="Hin9.in" tvg-name="MTV India" tvg-logo="https://i.imgur.com/4C4C4C4.png" group-title="Hindi",MTV India
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="Hin10.in" tvg-name="Sony Max" tvg-logo="https://i.imgur.com/5C5C5C5.png" group-title="Hindi",Sony Max
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-#EXTINF:-1 tvg-id="Hin11.in" tvg-name="Zee Cinema" tvg-logo="https://i.imgur.com/6C6C6C6.png" group-title="Hindi",Zee Cinema
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Hin12.in" tvg-name="Star Gold" tvg-logo="https://i.imgur.com/7C7C7C7.png" group-title="Hindi",Star Gold
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Hin13.in" tvg-name="Colors Cineplex" tvg-logo="https://i.imgur.com/8C8C8C8.png" group-title="Hindi",Colors Cineplex
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-#EXTINF:-1 tvg-id="Hin14.in" tvg-name="B4U Movies" tvg-logo="https://i.imgur.com/9C9C9C9.png" group-title="Hindi",B4U Movies
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="Hin15.in" tvg-name="UTV Movies" tvg-logo="https://i.imgur.com/0C0C0C0.png" group-title="Hindi",UTV Movies
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-
-#EXTINF:-1 tvg-id="Kid6.us" tvg-name="Hungama TV" tvg-logo="https://i.imgur.com/1D1D1D1.png" group-title="KIDS",Hungama TV
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Kid7.us" tvg-name="Sonic Nickelodeon" tvg-logo="https://i.imgur.com/2D2D2D2.png" group-title="KIDS",Sonic Nickelodeon
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Kid8.us" tvg-name="Discovery Family" tvg-logo="https://i.imgur.com/3D3D3D3.png" group-title="KIDS",Discovery Family
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-#EXTINF:-1 tvg-id="Kid9.us" tvg-name="BabyTV" tvg-logo="https://i.imgur.com/4D4D4D4.png" group-title="KIDS",BabyTV
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="Kid10.us" tvg-name="CN Hindi" tvg-logo="https://i.imgur.com/5D5D5D5.png" group-title="KIDS",CN Hindi
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-#EXTINF:-1 tvg-id="Kid11.us" tvg-name="Disney Junior" tvg-logo="https://i.imgur.com/6D6D6D6.png" group-title="KIDS",Disney Junior
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Kid12.us" tvg-name="CBeebies" tvg-logo="https://i.imgur.com/7D7D7D7.png" group-title="KIDS",CBeebies
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Kid13.us" tvg-name="Toonami" tvg-logo="https://i.imgur.com/8D8D8D8.png" group-title="KIDS",Toonami
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-#EXTINF:-1 tvg-id="Kid14.us" tvg-name="Boomerang" tvg-logo="https://i.imgur.com/9D9D9D9.png" group-title="KIDS",Boomerang
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="Kid15.us" tvg-name="Nickelodeon Jr." tvg-logo="https://i.imgur.com/0D0D0D0.png" group-title="KIDS",Nickelodeon Jr.
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-
-#EXTINF:-1 tvg-id="Doc6.us" tvg-name="Smithsonian Channel" tvg-logo="https://i.imgur.com/1E1E1E1.png" group-title="Documentary",Smithsonian Channel
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Doc7.us" tvg-name="ID Investigation Discovery" tvg-logo="https://i.imgur.com/2E2E2E2.png" group-title="Documentary",ID Investigation Discovery
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Doc8.us" tvg-name="TLC" tvg-logo="https://i.imgur.com/3E3E3E3.png" group-title="Documentary",TLC
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-#EXTINF:-1 tvg-id="Doc9.us" tvg-name="Travel Channel" tvg-logo="https://i.imgur.com/4E4E4E4.png" group-title="Documentary",Travel Channel
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="Doc10.us" tvg-name="National Geographic Wild" tvg-logo="https://i.imgur.com/5E5E5E5.png" group-title="Documentary",National Geographic Wild
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-#EXTINF:-1 tvg-id="Doc11.us" tvg-name="Love Nature" tvg-logo="https://i.imgur.com/6E6E6E6.png" group-title="Documentary",Love Nature
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Doc12.us" tvg-name="CuriosityStream" tvg-logo="https://i.imgur.com/7E7E7E7.png" group-title="Documentary",CuriosityStream
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Doc13.us" tvg-name="Crime+Investigation" tvg-logo="https://i.imgur.com/8E8E8E8.png" group-title="Documentary",Crime+Investigation
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-#EXTINF:-1 tvg-id="Doc14.us" tvg-name="NASA TV" tvg-logo="https://i.imgur.com/9E9E9E9.png" group-title="Documentary",NASA TV
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="Doc15.us" tvg-name="Da Vinci Learning" tvg-logo="https://i.imgur.com/0E0E0E0.png" group-title="Documentary",Da Vinci Learning
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-
-#EXTINF:-1 tvg-id="Isl6.sa" tvg-name="Quran TV" tvg-logo="https://i.imgur.com/1F1F1F1.png" group-title="Islamic",Quran TV
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Isl7.sa" tvg-name="Sunnah TV" tvg-logo="https://i.imgur.com/2F2F2F2.png" group-title="Islamic",Sunnah TV
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Isl8.sa" tvg-name="Al Quran Al Kareem" tvg-logo="https://i.imgur.com/3F3F3F3.png" group-title="Islamic",Al Quran Al Kareem
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-#EXTINF:-1 tvg-id="Isl9.sa" tvg-name="Iqraa TV" tvg-logo="https://i.imgur.com/4F4F4F4.png" group-title="Islamic",Iqraa TV
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="Isl10.sa" tvg-name="Al Majed TV" tvg-logo="https://i.imgur.com/5F5F5F5.png" group-title="Islamic",Al Majed TV
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
-
-#EXTINF:-1 tvg-id="Eng6.uk" tvg-name="BBC News" tvg-logo="https://i.imgur.com/1G1G1G1.png" group-title="English",BBC News
-https://test-streams.mux.dev/x36h/url_6/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Eng7.us" tvg-name="Bloomberg Television" tvg-logo="https://i.imgur.com/2G2G2G2.png" group-title="English",Bloomberg Television
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
-#EXTINF:-1 tvg-id="Eng8.us" tvg-name="CNBC" tvg-logo="https://i.imgur.com/3G3G3G3.png" group-title="English",CNBC
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-#EXTINF:-1 tvg-id="Eng9.us" tvg-name="ABC News Live" tvg-logo="https://i.imgur.com/4G4G4G4.png" group-title="English",ABC News Live
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="Eng10.us" tvg-name="France 24 English" tvg-logo="https://i.imgur.com/5G5G5G5.png" group-title="English",France 24 English
-https://sample-videos.com/video32/hls/big_buck_bunny_720p_1mb.m3u8
+http://103.102.27.173:84/ZEE-CINEMA-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Hin12.in" tvg-name="Star Gold" tvg-logo="http://172.100.100.100/assets/images/Star-Gold.png" group-title="Hindi",Star Gold
+http://172.100.100.100:8088/402/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 tvg-id="Hin13.in" tvg-name="Colors Cineplex" tvg-logo="https://ottking.top/app/uploads/tv_image/colors-cineplex-hd-6fy0x1h11tu7.png" group-title="Hindi",Colors Cineplex
+http://103.102.27.173:84/COLORS-CINEPLEX-HD/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="Hin14.in" tvg-name="PICTURS HD" tvg-logo="http://172.100.100.100/assets/images/And%20Picture1664973301.png" group-title="Hindi",PICTURS HD
+http://172.100.100.100:8088/407/tracks-v1a1/mono.m3u8
