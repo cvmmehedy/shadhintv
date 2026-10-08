@@ -4,7 +4,7 @@
 http://172.100.100.100:8088/2-102/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="T-SPORTS-BACKUP.in" tvg-name="T-SPORTS-BACKUP" tvg-logo="https://ottking.top/app/uploads/tv_image/t-sports-hd.png" group-title="Sports",T-SPORTS-BACKUP
-http://103.102.27.173:84/tvfeed1002/tracks-v1a1/mono.m3u8
+http://172.100.100.100:8088/102/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SonyTen1.in" tvg-name="Sony Ten 1" tvg-logo="http://172.100.100.100/assets/images/sonyten1.png" group-title="Sports",Sony Ten 1
 http://172.100.100.100:8088/119/tracks-v1a1/mono.m3u8
@@ -17,7 +17,7 @@ http://172.100.100.100:8088/120/tracks-v1a1/mono.m3u8
 http://172.100.100.100:8088/121/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sony Ten 4.us" tvg-name="Sony Ten 4" tvg-logo="http://172.100.100.100/assets/images/sonyten2.png" group-title="Sports",Sony Ten 4
-http://103.102.27.173:84/SONY-SPORTS-TEN-4HD/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/SONY.SPORTS.4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sony Ten 5.s" tvg-name="Sony Ten 4" tvg-logo="http://172.100.100.100/assets/images/sonyten5.png" group-title="Sports",Sony Ten 5
 http://172.100.100.100:8088/122/tracks-v1a1/mono.m3u8
@@ -31,7 +31,7 @@ http://172.100.100.100:8088/110/tracks-v1a1/mono.m3u8
 http://172.100.100.100:8088/115/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="STAR SPORTS 3in" tvg-name="STAR SPORTS 3 "tvg-logo"http://102.27.173/app/uploads/tv_image/sm/star-sports-3-hd.png " group-title="Sports",STAR SPORTS 3
-http://103.102.27.173:84/Star-Sports-3/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/STAR-SPORTS.3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="STAR SPORTS 3in" tvg-name="Unite8 sports 2"tvg-logo="tp://103.102.27.173/app/uploads/tv_image/sm/unite8-sports-2.png" group-title="Sports",Unite8 sports 2
 http://172.100.100.100:8088/101/tracks-v1a1/mono.m3u
@@ -61,7 +61,7 @@ http://172.100.100.100:8088/204/tracks-v1a1/mono.m3u8
 http://172.100.100.100:8088/203/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Maasranga TV" tvg-logo="https://ottking.top/app/uploads/tv_image/macranga-tv.png" group-title="Bangla",Maasranga TV
-http://103.102.27.173:84/Massranga-TV/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/MASRANGA.TV.HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Channel 1" tvg-logo="http://103.102.27.173/app/uploads/tv_image/sm/channel-1.png" group-title="Bangla",Channel 1
 http://103.102.27.173:84/Channel-1/tracks-v1a1/mono.m3u8
@@ -73,41 +73,41 @@ http://103.102.27.173:84/MY-TV/tracks-v1a1/mono.m3u8
 http://103.102.27.173:84/Mohona-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Channel i HD" tvg-logo="https://ottking.top/app/uploads/tv_image/channel-i.png" group-title="Bangla",Channel i HD
-http://172.100.100.100:8088/207/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/CHANNEL.I.HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryKids.us" tvg-name="NICK BANGLA" tvg-logo="http://172.100.100.100/assets/images/NICK.JPG.png" group-title="KIDS",NICK BANGLA
-http://103.102.27.173:84/NICK-BANGLA/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/nick/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryKids.us" tvg-name="SONIC BANGLA" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/ffc94165e3ccffde2ade859502f5d995.png" group-title="KIDS",SONIC BANGLA
-http://103.102.27.173:84/SONIC-BANGLA/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/SONIC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryKids.us" tvg-name="Duronto TV" tvg-logo="https://ottking.top/app/uploads/tv_image/duranto-tv.png" group-title="KIDS",Duronto TV
-http://103.102.27.173:84/Duronto-TV/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/duranta/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.us" tvg-name="Discovery Channel" tvg-logo="https://ottking.top/app/uploads/tv_image/discovery-bangla.png" group-title="Documentary",Discovery Channel
-http://103.102.27.173:84/DISCOVERY-BANGLA/tracks-v1a1/mono.m3u8
+http://172.100.100.100:8088/801/tracks-v1a1/mono.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="https://ottking.top/app/uploads/tv_image/nat-geo-bangla.png" group-title="Documentary",National Geographic
-http://103.102.27.173:84/NATGEO-BANGLA/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/NATGEO.HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="http://103.102.27.173/app/uploads/tv_image/sm/animal-planet-hd.png" group-title="Documentary",Animal Planet
-http://103.102.27.173:84/ANIMAL-PLANET-HD/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/animalPlanet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" tvg-logo="http://103.102.27.173/app/uploads/tv_image/sm/history-tv-18-hd.png" group-title="Documentary",History TV18
-http://103.102.27.173:84/HISTORY-TV-18-HD/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/HISTORY.TV.18.HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PeaceTV.sa" tvg-name="Peace TV Bangla-logo="https://i.imgur.com/1W1W1W1.png" group-title="Islamic",Peace TV BANGLA
 http://103.102.27.173:84/PEACE-TV-BANGLA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PeaceTVBangla.sa" tvg-name="Peace TV Bangla" tvg-logo="https://ottking.top/cdn/image/Peace-TV.png" group-title="Islamic",Peace TV Bangla
-https://test-streams.mux.dev/x36h/url_4/1930303/manifest.m3u8
+http://198.195.239.50:8095/PEACE.TV.BANGLA.HD/index.m3u8
 
 #EXTINF:-1 tvg-id="MakkahLive.sa" tvg-name="Makkah Live" tvg-logo="https://ottking.top/app/uploads/tv_image/makkah-tv.png" group-title="Islamic",Makkah Live
-http://103.102.27.173:84/Makkah-Live/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/MADANI.TV.HD/tracks-v1a1/mono.m3u8
 
 
 
@@ -139,13 +139,12 @@ http://172.100.100.100:8088/405/tracks-v1a1/mono.m3u8
 http://172.100.100.100:8088/403/tracks-v1a1/mono.m3u8?
 
 #EXTINF:-1 tvg-id="Hin10.in" tvg-name="Sony Max" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-max-hd.png" group-title="Hindi",Sony Max
-http://103.102.27.173:84/SONY-MAX-HD/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/SONY.MAX.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Hin11.in" tvg-name="Zee Cinema" tvg-logo="http://172.100.100.100/assets/images/Zee-Cinema.png" group-title="Hindi",Zee Cinema
-
-http://103.102.27.173:84/ZEE-CINEMA-HD/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/ZEE.CINEMA.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Hin12.in" tvg-name="Star Gold" tvg-logo="http://172.100.100.100/assets/images/Star-Gold.png" group-title="Hindi",Star Gold
 http://172.100.100.100:8088/402/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-id="Hin13.in" tvg-name="Colors Cineplex" tvg-logo="https://ottking.top/app/uploads/tv_image/colors-cineplex-hd-6fy0x1h11tu7.png" group-title="Hindi",Colors Cineplex
-http://103.102.27.173:84/COLORS-CINEPLEX-HD/tracks-v1/mono.m3u8
+http://198.195.239.50:8095/COLORS.CINEPLEX.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Hin14.in" tvg-name="PICTURS HD" tvg-logo="http://172.100.100.100/assets/images/And%20Picture1664973301.png" group-title="Hindi",PICTURS HD
 http://172.100.100.100:8088/407/tracks-v1a1/mono.m3u8
