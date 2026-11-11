@@ -19,7 +19,7 @@ http://172.100.100.100:8088/120/tracks-v1a1/mono.m3u8
 http://172.100.100.100:8088/121/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sony Ten 4.us" tvg-name="Sony Ten 4" tvg-logo="http://172.100.100.100/assets/images/sonyten2.png" group-title="Sports",Sony Ten 4
-http://198.195.239.50:8095/SONY.SPORTS.4/tracks-v1a1/mono.m3u8
+http://103.102.27.173:84/SONY-SPORTS-TEN-4HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sony Ten 5.s" tvg-name="Sony Ten 4" tvg-logo="http://172.100.100.100/assets/images/sonyten5.png" group-title="Sports",Sony Ten 5
 http://172.100.100.100:8088/122/tracks-v1a1/mono.m3u8
@@ -126,7 +126,7 @@ http://172.100.100.100:8088/503/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kol6.in" tvg-name="Star Jalsha HD" tvg-logo="http://172.100.100.100/assets/images/Star-Jalsha.png" group-title="India-Kolkata",Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="Kol7.in" tvg-name="ZEE BANGLA HD" tvg-logo="http://172.100.100.100/assets/images/Zee-Bangla.png" group-title="India-Kolkata",ZEE BANGLA HD
-https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
+http://103.102.27.173:84/ZEE-BANGLA-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kol8.in" tvg-name="Colors Bangla HD" tvg-logo="http://172.100.100.100/assets/images/Colors-Bangla.png" group-title="India-Kolkata",Colors Bangla HD
 http://172.100.100.100:8088/304/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-id="Kol9.in" tvg-name="SONY AATH" tvg-logo="http://172.100.100.100/assets/images/Sony-Aath.png" group-title="India-Kolkata",SONY AATH
